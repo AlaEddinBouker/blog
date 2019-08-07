@@ -73,7 +73,7 @@
                             <nav id="menu">
                                 <ul id="menu-main-menu" class="menu menu-main">
                                     <li class="current-menu-item">
-                                        <a href="index-football.html"><span>Acceille</span></a>
+                                        <a href="index-football.html"><span>Accueile</span></a>
                                     </li>
                                     <li>
                                         <a href="content/football/news.html"><span>Categories</span></a>
@@ -120,12 +120,6 @@
                                         <br> posuere metus. Integer sit amet, tellus. Fusce ligula.
                                         <br> Nam lacus. Nullam justo. Aenean posuere.
                                     </div>
-                                    <div
-                                        class="tp-caption tp-shape tp-shapewrapper  tp-resizeme rs-parallaxlevel-4" id="slide-1-layer-6" data-x="135" data-y="" data-width="['1']" data-height="['180']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                        data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10;background-color:rgb(198,95,126);"></div>
-                        <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme rs-parallaxlevel-4" id="slide-1-layer-7" data-x="135" data-y="717" data-width="['1']" data-height="['180']" data-type="shape" data-responsive_offset="on"
-                            data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11;background-color:rgb(198,95,126);"></div>
                         </li>
                         </ul>
                     </div>
@@ -158,7 +152,7 @@
                                     <div class="column mcb-column one column_column">
                                         <div class="column_attr clearfix">
                                             <hr>
-                                            <h2 style="font-weight: 400;">Latest posts</h2>
+                                            <h2 style="font-weight: 400;"></h2>
                                         </div>
                                     </div>
                                     <div class="column mcb-column one column_blog">
@@ -172,44 +166,6 @@
                                                                 <a href="content/football/post.html"><img src="content/football/images/home_football_blog6-960x720.jpg" class="scale-with-grid wp-post-image" /></a>
                                                             </div>
                                                         </div>
-                                                        <div class="post-desc-wrapper">
-                                                            <div class="post-desc">
-                                                                <div class="post-head">
-                                                                    <div class="post-meta clearfix">
-                                                                        <div class="author-date">
-                                                                            <span class="vcard author post-author"><span class="label">Published by </span><i class="icon-user"></i> <span class="fn"><a href="#">BeanTown</a></span></span><span class="date"><span class="label"> at </span>
-                                                                            <i
-                                                                                class="icon-clock"></i> <span class="post-date updated">June 21, 2018</span></span>
-                                                                        </div>
-                                                                        <div class="category">
-                                                                            <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
-                                                                            <div class="cat-wrapper">
-                                                                                <ul class="post-categories">
-                                                                                    <li>
-                                                                                        <a href="#" rel="category tag">Aliquam</a>
-                                                                                    </li>
-                                                                                    <li>
-                                                                                        <a href="#" rel="category tag">Quisque</a>
-                                                                                    </li>
-                                                                                </ul>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="post-title">
-                                                                    <h2 class="entry-title"><a href="content/football/post.html">CONSECTETUER LOBORTIS ELIT NUNC</a></h2>
-                                                                </div>
-                                                                <div class="post-excerpt"></div>
-                                                                <div class="post-footer">
-                                                                    <div class="button-love">
-                                                                        <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="33"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">0</span></a>
-                                                                    </div>
-                                                                    <div class="post-links">
-                                                                        <i class="icon-doc-text"></i><a href="content/football/post.html" class="post-more">Read more</a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <div class="post-item isotope-item clearfix post type-post has-post-thumbnail">
                                                         <div class="image_frame post-photo-wrapper scale-with-grid image">
@@ -217,87 +173,11 @@
                                                                 <a href="content/football/post.html"><img src="content/football/images/home_football_blog5-960x720.jpg" class="scale-with-grid wp-post-image" /></a>
                                                             </div>
                                                         </div>
-                                                        <div class="post-desc-wrapper">
-                                                            <div class="post-desc">
-                                                                <div class="post-head">
-                                                                    <div class="post-meta clearfix">
-                                                                        <div class="author-date">
-                                                                            <span class="vcard author post-author"><span class="label">Published by </span><i class="icon-user"></i> <span class="fn"><a href="#">BeanTown</a></span></span><span class="date"><span class="label"> at </span>
-                                                                            <i
-                                                                                class="icon-clock"></i> <span class="post-date updated">June 21, 2018</span></span>
-                                                                        </div>
-                                                                        <div class="category">
-                                                                            <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
-                                                                            <div class="cat-wrapper">
-                                                                                <ul class="post-categories">
-                                                                                    <li>
-                                                                                        <a href="#" rel="category tag">Aliquam</a>
-                                                                                    </li>
-                                                                                    <li>
-                                                                                        <a href="#" rel="category tag">Lorem</a>
-                                                                                    </li>
-                                                                                </ul>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="post-title">
-                                                                    <h2 class="entry-title"><a href="content/football/post.html">SED PULVINAR EGET NEQUE DONEC</a></h2>
-                                                                </div>
-                                                                <div class="post-excerpt"></div>
-                                                                <div class="post-footer">
-                                                                    <div class="button-love">
-                                                                        <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="31"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">1</span></a>
-                                                                    </div>
-                                                                    <div class="post-links">
-                                                                        <i class="icon-doc-text"></i><a href="content/football/post.html" class="post-more">Read more</a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <div class="post-item isotope-item clearfix post type-post has-post-thumbnail">
                                                         <div class="image_frame post-photo-wrapper scale-with-grid image">
                                                             <div class="image_wrapper">
                                                                 <a href="content/football/post.html"><img src="content/football/images/home_football_blog4-960x720.jpg" class="scale-with-grid wp-post-image" /></a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="post-desc-wrapper">
-                                                            <div class="post-desc">
-                                                                <div class="post-head">
-                                                                    <div class="post-meta clearfix">
-                                                                        <div class="author-date">
-                                                                            <span class="vcard author post-author"><span class="label">Published by </span><i class="icon-user"></i> <span class="fn"><a href="#">BeanTown</a></span></span><span class="date"><span class="label"> at </span>
-                                                                            <i
-                                                                                class="icon-clock"></i> <span class="post-date updated">June 21, 2018</span></span>
-                                                                        </div>
-                                                                        <div class="category">
-                                                                            <span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
-                                                                            <div class="cat-wrapper">
-                                                                                <ul class="post-categories">
-                                                                                    <li>
-                                                                                        <a href="#" rel="category tag">Lorem</a>
-                                                                                    </li>
-                                                                                    <li>
-                                                                                        <a href="#" rel="category tag">Quisque</a>
-                                                                                    </li>
-                                                                                </ul>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="post-title">
-                                                                    <h2 class="entry-title"><a href="content/football/post.html">CRAS UT PORTA SED ALIQUAM ENIM NON URNA LUCTUS</a></h2>
-                                                                </div>
-                                                                <div class="post-excerpt"></div>
-                                                                <div class="post-footer">
-                                                                    <div class="button-love">
-                                                                        <span class="love-text">Do you like it?</span><a href="#" class="mfn-love " data-id="28"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">0</span></a>
-                                                                    </div>
-                                                                    <div class="post-links">
-                                                                        <i class="icon-doc-text"></i><a href="content/football/post.html" class="post-more">Read more</a>
-                                                                    </div>
-                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -309,9 +189,6 @@
                                         <div class="placeholder">
                                             &nbsp;
                                         </div>
-                                    </div>
-                                    <div class="column mcb-column one-third column_button">
-                                        <a class="button button_full_width button_size_2 button_theme button_js" href="content/football/news.html" style="background-color: red;"><span class="button_label">MORE —</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -339,10 +216,6 @@
     <div id="Side_slide" class="right dark" data-width="250">
         <div class="close-wrapper">
             <a href="#" class="close"><i class="icon-cancel-fine"></i></a>
-        </div>
-        <div class="extras">
-            <a href="http://bit.ly/1M6lijQ" class="action_button" target="_blank">Buy now</a>
-            <div class="extras-wrapper"></div>
         </div>
         <div class="menu_wrapper"></div>
         <ul class="social">
