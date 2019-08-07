@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a51221775d5309bfa40d8cecf1982aa3",
+    "content-hash": "12242a45f048288a6348683ad72e8dc9",
     "packages": [
         {
             "name": "arrilot/laravel-widgets",
@@ -1786,16 +1786,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.22.2",
+            "version": "2.22.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "ec355b933f9b635fbc418c3b351e3886686f5a21"
+                "reference": "738fbd8d80b2c5e158fda76c29c2de432fcc6f7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/ec355b933f9b635fbc418c3b351e3886686f5a21",
-                "reference": "ec355b933f9b635fbc418c3b351e3886686f5a21",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/738fbd8d80b2c5e158fda76c29c2de432fcc6f7e",
+                "reference": "738fbd8d80b2c5e158fda76c29c2de432fcc6f7e",
                 "shasum": ""
             },
             "require": {
@@ -1806,7 +1806,7 @@
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "^2.14 || ^3.0",
                 "kylekatarnls/multi-tester": "^1.1",
-                "phpmd/phpmd": "^2.6",
+                "phpmd/phpmd": "dev-php-7.1-compatibility",
                 "phpstan/phpstan": "^0.11",
                 "phpunit/phpunit": "^7.5 || ^8.0",
                 "squizlabs/php_codesniffer": "^3.4"
@@ -1849,7 +1849,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2019-08-07T08:59:53+00:00"
+            "time": "2019-08-07T12:36:44+00:00"
         },
         {
             "name": "nikic/php-parser",
