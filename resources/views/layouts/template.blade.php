@@ -93,42 +93,7 @@
     </div>
 </div>
 <div id="Wrapper">
-    <div id="Header_wrapper" class="bg-parallax" data-enllax-ratio="0.3">
-        <header id="Header">
-            <div class="mfn-main-slider" id="mfn-rev-slider">
-                <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-                    <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8">
-                        <ul>
-                            <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide"
-                                data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                                <img src="/images/cover.jpg"
-                                     data-bgposition="center center"
-                                     data-bgfit="cover"
-                                     data-bgrepeat="no-repeat"
-                                     data-bgparallax="8"
-                                     class="rev-slidebg"
-                                     data-no-retina>
-
-                                <div class="tp-caption tp-resizeme rs-parallaxlevel-4" id="slide-1-layer-3" data-x="80" data-y="330" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                     data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 60px; line-height: 63px; font-weight: 700; color:#fff; letter-spacing: 0px;font-family:Kanit;">
-                                    MAGNA PURUS
-                                </div>
-                                <div class="tp-caption tp-resizeme rs-parallaxlevel-4" id="slide-1-layer-4" data-x="80" data-y="424" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                     data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-size: 17px; line-height: 27px; font-weight: 300; color:#fff; letter-spacing: 0px;font-family:Montserrat;">
-                                    Donec euismod at, porttitor vitae, vulputate sed, ultrices
-                                    <br> posuere metus. Integer sit amet, tellus. Fusce ligula.
-                                    <br> Nam lacus. Nullam justo. Aenean posuere.
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </header>
-    </div>
-    <div id="Content">
-       @yield('content')
-    </div>
+    @yield('content')
     <footer id="Footer" class="clearfix">
         <div class="footer_copy">
             <div class="container">
