@@ -1,19 +1,24 @@
 @extends('layouts.template')
 
 @section('content')
-
-<div class="content_wrapper clearfix">
-                <div class="sections_group">
-
-                    <div class="section section-filters">
-                        <div class="section_wrapper clearfix">
-                        </div>
-                    </div>
-                    <div class="section">
-                        <div class="section_wrapper clearfix">
-                            <div class="column one column_blog">
-                                <div class="blog_wrapper isotope_wrapper">
-                                    <div class="posts_group lm_wrapper masonry col-3 isotope">
+    <div id="Header_wrapper" class="bg-parallax" data-enllax-ratio="0.3">
+        <header id="Header"></header>
+        <div id="Subheader" style="padding:116px 0;">
+            <div class="container">
+                <div class="column one">
+                    <h1 class="title">Parti</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="Content">
+        <div class="content_wrapper clearfix">
+            <div class="sections_group">
+                <div class="section">
+                    <div class="section_wrapper clearfix">
+                        <div class="column one column_blog">
+                            <div class="blog_wrapper isotope_wrapper">
+                                <div class="posts_group lm_wrapper masonry col-3 isotope">
                                     @foreach ($partis as $parti)
                                         <div class="post-item isotope-item clearfix author-admin post-42 post type-post status-publish format-standard has-post-thumbnail category-aliquam category-lorem">
                                             <div class="image_frame post-photo-wrapper scale-with-grid image">
@@ -35,11 +40,15 @@
                                             </div>
                                         </div>
                                     @endforeach
-                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
 @endsection
+
+
+
