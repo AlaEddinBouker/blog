@@ -14,6 +14,21 @@
     <div id="Content">
         <div class="content_wrapper clearfix">
             <div class="sections_group">
+                <div class="section section-filters">
+                    <div class="section_wrapper clearfix">
+                        <div id="Filters" class="column one">
+                            <ul class="filters_buttons">
+                                <li class="label">
+
+                                </li>
+                            </ul>
+                            <div class="filters_wrapper">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <br>
                 <div class="section">
                     <div class="section_wrapper clearfix">
                         <div class="column one column_blog">
