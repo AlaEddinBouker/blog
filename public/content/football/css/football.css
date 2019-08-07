@@ -1,5 +1,5 @@
 body:not(.template-slider) #Header_wrapper {
-	background-image: url(../images/home_football_header1.jpg)
+	background-image: url(/images/flag.jpg)
 }
 @media only screen and (max-width: 1489px) and (min-width: 1240px){
 .header-open #Wrapper {
