@@ -38,7 +38,7 @@
                                         <div class="post-item isotope-item clearfix author-admin post-42 post type-post status-publish format-standard has-post-thumbnail category-aliquam category-lorem">
                                             <div class="image_frame post-photo-wrapper scale-with-grid image">
                                                 <div class="image_wrapper">
-                                                    <a href="/partis/{!! $parti->id !!}"><img src="/storage/{!! $parti->thumnail !!}" class="scale-with-grid wp-post-image" /></a>
+                                                    <a href="/partis/{!! $parti->id !!}"><img src="/storage/{!! $parti->thumnail !!}" class="scale-with-grid wp-post-image" style="height:25% !important; width:100% !important;" /></a>
                                                 </div>
                                             </div>
                                             <div class="post-desc-wrapper">

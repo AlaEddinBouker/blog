@@ -69,21 +69,21 @@
                                                     <div class="post-item isotope-item clearfix post type-post has-post-thumbnail">
                                                         <div class="image_frame post-photo-wrapper scale-with-grid image">
                                                             <div class="image_wrapper">
-                                                                <a href="content/football/post.html"><img src="/images/1.jpg" class="scale-with-grid wp-post-image" /></a>
+                                                                <a href="{{url('/partis')}}"><img src="/images/1.jpg" class="scale-with-grid wp-post-image" /></a>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="post-item isotope-item clearfix post type-post has-post-thumbnail">
                                                         <div class="image_frame post-photo-wrapper scale-with-grid image">
                                                             <div class="image_wrapper">
-                                                                <a href="content/football/post.html"><img src="/images/2.jpg" class="scale-with-grid wp-post-image" /></a>
+                                                                <a href="#"><img src="/images/2.jpg" class="scale-with-grid wp-post-image" /></a>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="post-item isotope-item clearfix post type-post has-post-thumbnail">
                                                         <div class="image_frame post-photo-wrapper scale-with-grid image">
                                                             <div class="image_wrapper">
-                                                                <a href="content/football/post.html"><img src="/images/3.jpg" class="scale-with-grid wp-post-image" /></a>
+                                                                <a href="#"><img src="/images/3.jpg" class="scale-with-grid wp-post-image" /></a>
                                                             </div>
                                                         </div>
                                                     </div>

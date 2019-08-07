@@ -73,14 +73,14 @@
                         <nav id="menu">
                             <ul id="menu-main-menu" class="menu menu-main">
                                 <li class="current-menu-item">
-                                    <a href="index-football.html"><span>Accueile</span></a>
+                                    <a href="{{url('/')}}"><span>Accueil</span></a>
                                 </li>
                                 <li>
-                                    <a href="content/football/news.html"><span>Categories</span></a>
+                                    <a href="#"><span>Categories</span></a>
                                 </li>
 
                                 <li>
-                                    <a href="content/football/contact.html"><span>CONTACT</span></a>
+                                    <a href="#"><span>CONTACT</span></a>
                                 </li>
                             </ul>
                         </nav>
