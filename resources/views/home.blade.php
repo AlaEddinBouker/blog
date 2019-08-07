@@ -102,7 +102,6 @@
                                 <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide"
                                     data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                     <img src="/images/cover.jpg"
-                                         title="cover" width="1920" height="750"
                                          data-bgposition="center center"
                                          data-bgfit="cover"
                                          data-bgrepeat="no-repeat"
@@ -163,21 +162,21 @@
                                                     <div class="post-item isotope-item clearfix post type-post has-post-thumbnail">
                                                         <div class="image_frame post-photo-wrapper scale-with-grid image">
                                                             <div class="image_wrapper">
-                                                                <a href="content/football/post.html"><img src="content/football/images/home_football_blog6-960x720.jpg" class="scale-with-grid wp-post-image" /></a>
+                                                                <a href="content/football/post.html"><img src="/images/1.jpg" class="scale-with-grid wp-post-image" /></a>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="post-item isotope-item clearfix post type-post has-post-thumbnail">
                                                         <div class="image_frame post-photo-wrapper scale-with-grid image">
                                                             <div class="image_wrapper">
-                                                                <a href="content/football/post.html"><img src="content/football/images/home_football_blog5-960x720.jpg" class="scale-with-grid wp-post-image" /></a>
+                                                                <a href="content/football/post.html"><img src="/images/2.jpg" class="scale-with-grid wp-post-image" /></a>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="post-item isotope-item clearfix post type-post has-post-thumbnail">
                                                         <div class="image_frame post-photo-wrapper scale-with-grid image">
                                                             <div class="image_wrapper">
-                                                                <a href="content/football/post.html"><img src="content/football/images/home_football_blog4-960x720.jpg" class="scale-with-grid wp-post-image" /></a>
+                                                                <a href="content/football/post.html"><img src="/images/3.jpg" class="scale-with-grid wp-post-image" /></a>
                                                             </div>
                                                         </div>
                                                     </div>
