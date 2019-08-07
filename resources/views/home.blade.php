@@ -11,9 +11,9 @@
 
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
-    <title>CB</title>
+    <title>Chnowa Barnemjek</title>
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="Devrows">
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
